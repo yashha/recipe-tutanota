@@ -1,4 +1,4 @@
-# NewsBlur for Franz
+# Tutanota for Franz
 This is the Franz recipe for NewsBlur
 
 ### How to create your own Franz recipes:
